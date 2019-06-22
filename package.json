@@ -1,0 +1,29 @@
+{
+  "name": "karma-jasmine-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "typescript",
+    "test",
+    "tests",
+    "testing"
+  ],
+  "author": "IlyaSavich",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.3.13",
+    "jasmine-core": "^3.4.0",
+    "karma": "^4.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-spec-reporter": "0.0.32",
+    "karma-typescript": "^4.1.0",
+    "typescript": "^3.5.2"
+  }
+}
